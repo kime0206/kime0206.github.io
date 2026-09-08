@@ -1,16 +1,10 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: All About Me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi! My name is Eunchae, and I am a senior majoring in Political Science and Studio Art at Kenyon College. I have an orange cat named Ginger (as pictured in my icon above), and one younger brother. I love camping, hiking, and rock climbing. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### Why did I choose eTextiles?
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+The intersection between technology and art has been an interest of mine ever since I started building rudimentary robots and gadgets from a young age. I loved working with my hands, and, especially with the present developing technology, that curiosity has only grown. I also love to sew, and I thought eTextiles class would be perfect to combine my passions into one. I haven't heard of eTextiles before, so I am very eager to explore what this world can teach me. 
