@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introductory Post
-cover-img: /assets/img/IntroductionPic.jpeg
+cover-img: /assets/img/Sea.jpeg
 thumbnail-img: /assets/img/IntroductionPic.jpeg
 share-img: /assets/img/IntroductionPic.jpeg
 tags: [Introduction, AboutMe]
