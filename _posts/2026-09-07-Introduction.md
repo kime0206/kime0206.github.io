@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Introductory Post
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
-tags: [books, test]
+cover-img: /assets/img/IntroductionPic.jpeg
+thumbnail-img: /assets/img/IntroductionPic.jpeg
+share-img: /assets/img/IntroductionPic.jpeg
+tags: [Introduction, AboutMe]
 author: Eunchae Kim
 ---
 
