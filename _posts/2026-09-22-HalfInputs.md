@@ -1,6 +1,8 @@
+---
 layout: post
 title: Half Inputs
 author: Eunchae Kim
+---
 
 This Half Inputs assignment required an Arduino program that contained the **btn** and **swt** variables. Using these variables, and the new Boolean type, the code should turn on a different colored LED for each possible combination of **btn** and **swt**. Only one color of LEDs is on at a time.  
 
