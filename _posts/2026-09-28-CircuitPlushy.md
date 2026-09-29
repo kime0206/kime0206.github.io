@@ -20,7 +20,7 @@ Back of Completed Plushy:
 ![BackPlushy](/assets/img/BackPlushy.jpeg)
 
 Front of Working Plushy:
-![WorkingPlushy](/assets/img/CircuitPlushy.jpeg)
+![WorkingPlushy](/assets/img/WorkingPlushy.jpeg)
 
 Tip for Beginners:
 If your circuit isn't working, make sure that your conductive thread doesn't overlap! Put pieces of fabric in between the threads to create a barrier between the positive and the negative sides.
