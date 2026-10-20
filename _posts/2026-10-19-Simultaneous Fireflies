@@ -1,0 +1,12 @@
+---
+layout: post
+title: Simultaneous Fireflies
+author: Eunchae Kim
+---
+Description of Simultaneous Fireflies:
+This project is a combination of the past three projects (i.e. Big Dipper, Flash Bulb, and Blue Ghost). The code itself programs
+3 sets of LEDs to light with 3 different blinking patterns, in a single file, simulating parallel behaviors.
+
+Tip:
+My first approach was to try to compile everything at once. However, I think the better way to go about this project would have been to
+break it down into smaller sections especially because you are literally combining 3 different projects into one.
