@@ -3,7 +3,7 @@ layout: post
 title: Ghost Detector
 author: Eunchae Kim
 ---
-Description of Simultaneous Fireflies:
+Description of Ghost Detector Assignment:
 This code turns on all the Red LEDs when it is dark and cold.
 
 Tip:
