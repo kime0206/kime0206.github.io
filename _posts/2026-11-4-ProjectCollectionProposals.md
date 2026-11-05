@@ -4,8 +4,8 @@ title: Project Collection Proposal
 author: Eunchae Kim
 ---
 
-![VibeBoard](/assets/img/firstslide.jpeg)
-![VibeBoard](/assets/img/secondslide.jpeg)
+![firstslide](/assets/img/firstslide.jpg)
+![secondslide](/assets/img/secondslide.jpg)
 
 Description:
 My collection is centered around the idea of memory and nostalgia. I wanted to create something that brought together pieces of my childhood and transformed them into something meaningful for the present. I drew inspiration from objects and experiences that were important to me growing up, such as friendship jewelry, photographs, and bags. I wanted to take these familiar childhood objects and reinterpret them through textiles and technology.
