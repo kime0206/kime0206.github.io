@@ -3,7 +3,7 @@ layout: post
 title: Project Collection Proposal
 author: Eunchae Kim
 ---
-![assignmentsheet](/assets/img/assignmentsheet.jpg)
+![assignmentsheet](/assets/img/assignmentsheet.jpeg)
 ![firstslide](/assets/img/firstslide.jpg)
 ![secondslide](/assets/img/secondslide.jpg)
 
