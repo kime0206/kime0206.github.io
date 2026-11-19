@@ -27,7 +27,7 @@ painting as I've grown with it, extrapolating it to relationships in my life.
 ![TheKissAlligator](/assets/img/TheKissAlligator.jpeg)
 
 **Working Piece:**
-![TheKissWorking](/assets/img/TheKissWorking.mov)
+[Watch the Video](https://raw.githubusercontent.com/kime0206/repository/branch/path/to/TheKissWorking.mov)
 
 **Tips to My Past Self:**
 
