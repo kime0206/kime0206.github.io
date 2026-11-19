@@ -19,10 +19,11 @@ painting as I've grown with it, extrapolating it to relationships in my life.
 *Note: This piece is not fully finished. I still have to add a lot more details to the figures as well as the grass flower field that the figures are standing on. Additionally, I changed out the blue and the pink LEDs from my original plan to a yellow LED, and, subsequently, decreased the number of LEDs down to 4 instead of 5.*
 
 Revised Paper Prototype:
-![SnoopyBack](/assets/img/SnoopyBack.jpeg)
+![TheKissPaperFront](/assets/img/TheKissPaperFront.jpeg)
+![TheKissPaperBack](/assets/img/TheKissPaperBack.jpeg)
 
 Alligator Prototype:
-![SnoopyBack](/assets/img/SnoopyBack.jpeg)
+![TheKissAlligator](/assets/img/TheKissAlligator.jpeg)
 
 Working Piece:
 ![SnoopyBack](/assets/img/SnoopyBack.jpeg)
