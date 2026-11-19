@@ -16,6 +16,8 @@ Motivation: I grew up with a photo of this painting in every house that I've liv
 pieces. Every time I look at this scene, it reminds me of my childhood. I have also developed a unique relationship with this
 painting as I've grown with it, extrapolating it to relationships in my life. 
 
+*Note: This piece is not fully finished. I still have to add a lot more details to the figures as well as the grass flower field that the figures are standing on. Additionally, I changed out the blue and the pink LEDs from my original plan to a yellow LED, and, subsequently, decreased the number of LEDs down to 4 instead of 5.*
+
 Revised Paper Prototype:
 ![SnoopyBack](/assets/img/SnoopyBack.jpeg)
 
