@@ -2,9 +2,9 @@
 layout: post
 title: Project Collection - Simplest [Circuitry] Piece
 author: Eunchae Kim
-cover-img: /assets/img/ProjectCover.jpeg
-thumbnail-img: /assets/img/ProjectCover.jpeg
-share-img: /assets/img/ProjectCover.jpeg
+cover-img: /assets/img/TheKissCover.jpeg
+thumbnail-img: /assets/img/TheKissCover.jpeg
+share-img: /assets/img/TheKissCover.jpeg
 ---
 **Title: The Kiss Tote Bag** 
 
@@ -27,8 +27,7 @@ painting as I've grown with it, extrapolating it to relationships in my life.
 ![TheKissAlligator](/assets/img/TheKissAlligator.jpeg)
 
 **Working Piece:**
-![SnoopyBack](/assets/img/SnoopyBack.jpeg)
-![SnoopyBack](/assets/img/SnoopyBack.jpeg)
+![TheKissWorking](/assets/img/TheKissWorking.mov)
 
 **Tips to My Past Self:**
 
