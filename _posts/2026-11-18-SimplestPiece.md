@@ -27,7 +27,12 @@ painting as I've grown with it, extrapolating it to relationships in my life.
 ![TheKissAlligator](/assets/img/TheKissAlligator.jpeg)
 
 **Working Piece:**
-[Watch the Video](https://raw.githubusercontent.com/kime0206/repository/branch/path/to/TheKissWorking.mov)
+
+State 1: Open Snaps
+![TheKissCover](/assets/img/TheKissCover.jpeg)
+
+State 2: Closed Snaps
+![TheKissWorking](/assets/img/TheKissWorking.jpeg)
 
 **Tips to My Past Self:**
 
