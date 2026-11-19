@@ -6,7 +6,7 @@ cover-img: /assets/img/ProjectCover.jpeg
 thumbnail-img: /assets/img/ProjectCover.jpeg
 share-img: /assets/img/ProjectCover.jpeg
 ---
-**Title: The Kiss Tote Bag**
+**Title: The Kiss Tote Bag** 
 Description: This tote bag depicts the famous *The Kiss* painting by Gustav Klimt. When you connect the two metal snaps
 at the top together, it not only closes the tote bag shut but also lights up the flowers on the woman's dress. There
 is a switch battery holder inside the tote bag so that the user can close the tote bag without the flowers lighting up if
@@ -28,7 +28,7 @@ Working Piece:
 ![SnoopyBack](/assets/img/SnoopyBack.jpeg)
 ![SnoopyBack](/assets/img/SnoopyBack.jpeg)
 
-Tips to My Past Self:
+Tips to My Past Self: 
 1) Consider the actual voltage of each LED color. When I tested the string of 5 LEDs together using alligator clips, they worked fine,
 but when I sewed them onto the tote bag, the blue and pink one didn't light up. I should have considered the limits of the battery
 along with the constraints of the conductive thread.
